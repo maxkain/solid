@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Service\Product\ImportV2\Importer;
+namespace App\Service\Product\ImportV2\ImporterAdapter;
 
 use App\Utils\Importer\ImportReceiverInterface;
 
